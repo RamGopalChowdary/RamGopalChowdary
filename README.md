@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RamGopalChowdary
 - 👀 I’m interested in WEBdeveloping
-- 🌱 I’m currently learning JAVA,DBMS
+- 🌱 I learned JAVA,python
+-I'm currently learning SQL
 - 💞️ I’m looking to collaborate on to learn coding
 - 📫 How to reach me ramgopalchowdary143@gmail.com
 - 
