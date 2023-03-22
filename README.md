@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamGopalChowdary
-- 👀 I’m interested in WEBdeveloping
+- 👀 I’m interested in SoftwareDevelopment
 - 🌱 I learned JAVA,python
 -I'm currently learning SQL
 - 💞️ I’m looking to collaborate on to learn coding
