@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamGopalChowdary
-- 👀 I’m interested in SoftwareDevelopment
-- 🌱 I learned JAVA,python
+- 👀 I’m interested in FrontEndDevelopment
+- 🌱 I learned JAVA, Python , HTML , CSS , JS
 -I'm currently learning SQL
 - 💞️ I’m looking to collaborate on to learn coding
 - 📫 How to reach me ramgopalchowdary143@gmail.com
